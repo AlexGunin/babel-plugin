@@ -23,6 +23,7 @@
     "devDependencies": {
         "@babel/core": "^7.16.7",
         "@babel/preset-env": "^7.16.8",
+        "@babel/types": "^7.21.4",
         "babel-loader": "^8.2.3",
         "file-loader": "^6.2.0",
         "http-server": "^14.1.0",
